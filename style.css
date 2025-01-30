@@ -339,7 +339,7 @@ border-radius: 2rem;
     text-align: initial;
     flex-wrap: wrap;
     flex-direction: row;
-    gap: 2.5rem;
+    gap: 2rem;
     justify-content: space-around;
 }
 
@@ -347,7 +347,7 @@ article {
 display: flex;
 width: 10rem;
 justify-content: space-around;
-gap: 0.5rem;
+
 }
 
 article .icon {
