@@ -346,12 +346,13 @@ border-radius: 2rem;
 article {
 display: flex;
 width: 10rem;
-justify-content: space-around;
+
 
 }
 
 article .icon {
     cursor: default;
+    margin-right: 2rem;
 }
 
 .exprience-sub-title {
